@@ -1,0 +1,17 @@
+Source: foxxy-wallpapers
+Priority: optional
+Maintainer: Foxxy Devel Team <foxxy-devel@lists.foxxysec.org>
+Uploaders: Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>,
+           Lisetta "Sheireen" Ferrero <sheireen@foxxysec.org>
+Standards-Version: 3.9.8
+Section: info
+Build-Depends: debhelper (>= 9)
+Build-Depends-Indep: pkg-config
+Homepage: http://www.foxxysec.org/
+
+Package: foxxy-wallpapers
+Architecture: all
+Depends: desktop-base
+Priority: optional
+Description: default wallpapers for Foxxy GNU/Linux
+ This is a collection of desktop wallpapers created for MATE desktop environment for Foxxy GNU/Linux
